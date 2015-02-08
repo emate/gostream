@@ -1,3 +1,5 @@
+// Author: Marcin Matlaszek https://github.com/emate
+
 package main
 
 import (
